@@ -4,9 +4,9 @@
     Plugin URI: 
     Description: Añade Post Types al sitio Gym Fitness
     Version: 1.0.0
-    Author: Juan Pablo De la torre Valdez
-    Author URI: http://twitter.com/JuanDevWP
-    Text Domain: school
+    Author: New York Software Lab
+    Author URI: https://nysoftwarelab.com/
+    Text Domain: School
 */
 
 if(!defined('ABSPATH')) die();
